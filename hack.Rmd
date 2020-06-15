@@ -1,0 +1,5 @@
+```{r test-python, engine='python'}
+x = 'hello, python world!'
+print(x)
+print(x.split(' '))
+```

@@ -1,2 +1,2 @@
-echo "hell from hack.Rmd";
+echo "hack.Rmd";
 mkdir -p test;

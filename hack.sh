@@ -1,1 +1,2 @@
-mkdir -p test;
+#!/bin/bash
+echo "hacked";

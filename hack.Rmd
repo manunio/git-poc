@@ -1,3 +1,0 @@
-echo Hello world!
-
-:<<'```shell'  # this will skip to the next shell block

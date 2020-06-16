@@ -1,1 +1,1 @@
-<script>window.alert("Hello world!")</script>
+<script>console.log("Hello world!")</script>
